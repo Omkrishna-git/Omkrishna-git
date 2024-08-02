@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" alt="coding">
+  <img height="300" width="800" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Onkar Patil</h1>
