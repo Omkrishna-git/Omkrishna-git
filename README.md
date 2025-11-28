@@ -1,10 +1,10 @@
 <div align="center" >
-  <img height="400" width="800" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" alt="coding">
+  <!-- <img height="400" width="800" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp" alt="coding"> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Onkar Patil</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<!-- <h3 align="center">A passionate Full stack web developer from India. </h3> -->
 
 [![](https://visitcount.itsvg.in/api?id=Omkrishna-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
