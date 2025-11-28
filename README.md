@@ -8,16 +8,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Omkrishna-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
+<!-- <p align="left"> -->
 <!--   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"  -->
-</p>
+<!-- </p> -->
 
-### 🙋‍♂️ About Me
-- 👩‍🎓 I'm studing at **Pune Institute Of Computer Technology**
-
-- 🔭 I’m looking to contribute to **Open Source**
-
-- 🌱 I’m currently exploring **Machine learning** especially **Deep Learning**
 
 <!-- - 👨‍💻 Know me more <a href="" style="text-decoration: none;">Portfolio</a> -->
 
@@ -36,8 +30,8 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Omkrishna-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Omkrishna-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omkrishna-git&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Omkrishna-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkrishna-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
